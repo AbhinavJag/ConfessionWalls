@@ -1,0 +1,6 @@
+flask==3.*
+flask-cors==4.*
+torch==2.*
+transformers==4.*
+Pillow==10.*
+gunicorn==22.*
